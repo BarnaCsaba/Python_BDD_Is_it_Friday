@@ -2,7 +2,7 @@
 
 Ez a projekt a Cucumber 10 perces oktatóanyag Python Behave verziója. A Behave a Python verziója a Cucumber-nek, és ugyanazt a Gherkin nyelvet használja.
 
-## Projekt struktúra
+## Projekt struktúra gyaa
 
 ```
 Python_BDD_Is_it_Friday/
